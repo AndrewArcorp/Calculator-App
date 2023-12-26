@@ -9,5 +9,7 @@ public class Main {
 
 
     // Implement Add Function
-//    public static
+    public static void add(int a, int b){
+        System.out.println(a+b);
+    }
 }
